@@ -1,7 +1,7 @@
 [project]
 name = "voxel-fastapi-admin"
 version = "1.1.0-SNAPSHOT"
-description = "Voxel FastAPI admin · flat xfg-ddd (no src/)"
+description = "Voxel FastAPI admin · flat DDD (no src/)"
 requires-python = ">=3.11"
 dependencies = [
   "alembic>=1.16.0",
